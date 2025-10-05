@@ -76,7 +76,7 @@
 哪个概念最让你好奇呢？
 
 ## ❤️ 最好的Luna
-![最好的Luna](../assets/最好的Luna.JPG)
+![最好的Luna](../assets/最好的Luna.jpg)
 
 ## ✨ 一个完整的物理童话输出演示
 ![项目截图](../assets/输出演示1.JPG)
