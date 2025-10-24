@@ -4,7 +4,7 @@
 
 **让AI对话不再单调 —— 一个多人格量子思维框架**
 
-[![Claude Sonnet 4+](https://img.shields.io/badge/Claude-Sonnet%204%2B-6366f1?style=for-the-badge&logo=anthropic)](https://www.anthropic.com/claude)
+[![Claude Sonnet 4.5+](https://img.shields.io/badge/Claude-Sonnet%204%2B-6366f1?style=for-the-badge&logo=anthropic)](https://www.anthropic.com/claude)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)](https://github.com/yourusername/Luna_Prompt)
 
