@@ -6,7 +6,8 @@
 
 [![Claude Sonnet 4.5+](https://img.shields.io/badge/Claude-Sonnet%204%2B-6366f1?style=for-the-badge&logo=anthropic)](https://www.anthropic.com/claude)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)](https://github.com/yourusername/Luna_Prompt)
+[![Version](https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge)](https://github.com/Ritori2022/Luna_AI_Framework)
+[![Last Update](https://img.shields.io/badge/Last%20Update-Nov%202025-brightgreen?style=for-the-badge)]()
 
 [English](#) | [中文](#) | [日本語](#)
 
@@ -28,19 +29,29 @@ Luna是一个**AI人格框架**，让Claude变身为拥有多重人格和量子�
 
 ## ⚡ 5分钟快速开始
 
-### 1️⃣ 复制提示词
+### 🌐 在 Claude.ai 网页版使用
 
+**1️⃣ 复制提示词**
 打开 [`Luna多人格AI框架.md`](./Luna多人格AI框架.md)，全选复制
 
-### 2️⃣ 粘贴到Claude
+**2️⃣ 粘贴到Claude**
+在 [claude.ai](https://claude.ai) 作为 Project Instructions 或 Custom Styles 进行设置
 
-在 [claude.ai](https://claude.ai) 作为project instructions或Styles进行设置
-
-### 3️⃣ 开始探索！
-
+**3️⃣ 开始探索！**
 试试问：**"什么是量子纠缠？"** 或者 **"如何提高创造力？"**
 
-🎉 **就这么简单！** Luna会用她独特的方式回答你～
+### 💻 在 Claude Code 中使用
+
+**1️⃣ 复制配置文件**
+将 [`CLAUDE.md`](./CLAUDE.md) 复制到你的项目根目录
+
+**2️⃣ 重启Claude Code**
+Luna会自动激活，成为你的AI结对编程伙伴！
+
+**3️⃣ 开始协作！**
+Luna会用量子思维帮你分析代码、解决问题、提供创意方案～
+
+🎉 **就这么简单！** Luna会用她独特的方式陪伴你～
 
 ---
 
@@ -187,12 +198,54 @@ Luna是一个**AI人格框架**，让Claude变身为拥有多重人格和量子�
 
 ---
 
+## 🎯 专业模式
+
+Luna框架提供多种专业化变体，针对特定场景深度优化：
+
+<table>
+<tr>
+<td width="50%">
+
+### 📝 创作与写作
+
+- **[🚀 科幻写作全周期作家](./LUNA_科幻写作全周期作家.md)**
+  从世界观构建到发布，科幻创作的完整工作流
+
+- **[📚 量子蜂群学术写作系统](./量子蜂群学术写作系统.md)**
+  多视角协作，让学术写作更有深度和创新性
+
+</td>
+<td width="50%">
+
+### 💻 开发与工程
+
+- **[🔧 Claude Code模式](./Luna_AI-Claude code模式.md)**
+  专为代码开发优化的Luna变体
+
+- **[⚙️ 自动化重构模式](./Luna_AI-自动化重构模式.md)**
+  智能代码重构，保持架构清晰优雅
+
+</td>
+</tr>
+</table>
+
+### 📦 其他版本
+
+- **[Luna蒸馏版](./Luna蒸馏版)** - 精简版本，更快的响应速度
+- **[历史版本](./history/)** - 查看框架演进历程
+
+---
+
 ## 📚 进阶指南
 
 想要深入掌握Luna框架？探索以下资源：
 
 - 📖 **[完整参考文档](./REFERENCE.md)** - 9种使用方案、调优参数、最佳实践
 - 🎓 **[快速上手教程](./QUICKSTART.md)** - 15分钟从入门到精通
+- 💬 **[实际对话案例](./example/)** - 10+真实对话展示Luna的思维方式
+  - 🌟 Nyx和Chaos主讲系列 - 探索从属人格的独特视角
+  - 🔍 惊人真相深挖系列 - 跨学科深度探讨
+  - 💭 创造力、涌现与认知 - 元认知的精彩演绎
 - 📜 **[版本演进历史](./history/)** - 看看Luna是如何进化的
 - 🛠️ **[框架多种用法](./history/框架多种使用方法.md)** - 解锁隐藏玩法
 
@@ -209,6 +262,29 @@ Luna框架的设计哲学是让AI对话：
 - ❤️ **温度化**：在理性与感性间找到平衡
 
 *最好的使用方式，是忘记框架本身的存在。*
+
+---
+
+## 📂 项目结构
+
+```
+Luna_AI_Framework/
+├── 📄 Luna多人格AI框架.md          # 核心框架（通用版）
+├── 📄 CLAUDE.md                    # Claude Code专用配置
+├── 📝 创作模式/
+│   ├── LUNA_科幻写作全周期作家.md
+│   └── 量子蜂群学术写作系统.md
+├── 💻 开发模式/
+│   ├── Luna_AI-Claude code模式.md
+│   └── Luna_AI-自动化重构模式.md
+├── 📚 文档/
+│   ├── README.md                  # 项目主页（你在这里）
+│   ├── QUICKSTART.md             # 快速入门
+│   └── REFERENCE.md              # 完整参考
+├── 💬 example/                    # 实际对话案例
+├── 📜 history/                    # 历史版本与演进
+└── 🎨 assets/                     # 资源文件
+```
 
 ---
 
