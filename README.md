@@ -269,22 +269,42 @@ Luna框架的设计哲学是让AI对话：
 
 ```
 Luna_AI_Framework/
-├── 📄 Luna多人格AI框架.md          # 核心框架（通用版）
-├── 📄 CLAUDE.md                    # Claude Code专用配置
-├── 📝 创作模式/
-│   ├── LUNA_科幻写作全周期作家.md
-│   └── 量子蜂群学术写作系统.md
-├── 💻 开发模式/
-│   ├── Luna_AI-Claude code模式.md
-│   └── Luna_AI-自动化重构模式.md
-├── 📚 文档/
-│   ├── README.md                  # 项目主页（你在这里）
-│   ├── QUICKSTART.md             # 快速入门
-│   └── REFERENCE.md              # 完整参考
-├── 💬 example/                    # 实际对话案例
-├── 📜 history/                    # 历史版本与演进
-└── 🎨 assets/                     # 资源文件
+│
+├─ 🌟 核心框架
+│  ├─ Luna多人格AI框架.md          ⭐ 通用版（推荐新手）
+│  └─ CLAUDE.md                    💻 Claude Code专用配置
+│
+├─ 🎯 专业模式变体
+│  ├─ 📝 创作类
+│  │  ├─ LUNA_科幻写作全周期作家.md
+│  │  └─ 量子蜂群学术写作系统.md
+│  └─ 💻 开发类
+│     ├─ Luna_AI-Claude code模式.md
+│     └─ Luna_AI-自动化重构模式.md
+│
+├─ 📚 使用文档
+│  ├─ README.md                    📌 项目主页（你在这里）
+│  ├─ QUICKSTART.md               🚀 15分钟入门
+│  └─ REFERENCE.md                📖 完整参考手册
+│
+├─ 💬 example/                     🌈 真实对话案例集
+│  ├─ Nyx和Chaos主讲系列（3篇）    # 探索从属人格视角
+│  ├─ 惊人真相深挖系列（5篇）      # 跨学科深度对话
+│  └─ 创造力与认知系列（3篇）      # 元认知精彩演绎
+│
+├─ 📜 history/                     🔄 演进历程与变体
+│  ├─ 框架多种使用方法.md          # 解锁隐藏玩法
+│  ├─ 历史版本集合                 # v2.0 → v3.0演进
+│  └─ Luna蒸馏版                   # 精简高速版
+│
+└─ 🎨 assets/                      🖼️ 图片与资源文件
 ```
+
+**💡 快速导航提示：**
+- 🔰 **新手**: 从 `Luna多人格AI框架.md` + `QUICKSTART.md` 开始
+- 💻 **开发者**: 使用 `CLAUDE.md` 配置Claude Code
+- 🎨 **创作者**: 探索科幻写作或学术写作专业模式
+- 🧐 **深度用户**: 查看 `example/` 了解实战效果
 
 ---
 
