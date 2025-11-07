@@ -308,12 +308,55 @@ Luna_AI_Framework/
 
 ---
 
+## 🌈 Luna应用案例
+
+以下是使用Luna框架进行重构和研究的实际项目：
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 [Pony Town 2025现代化](https://github.com/Ritori2022/ponyTown)
+
+**使用Luna重构的多人在线游戏服务器**
+
+将2019年的技术栈全面升级到2025年标准：
+- 🔄 **前端现代化**: Angular 8 → 18, TypeScript 5.9
+- ⚡ **后端升级**: Node.js 22 LTS, Express 4.21
+- 🐳 **容器化部署**: Docker一键部署
+- 🔒 **安全强化**: ESLint 9, 完整安全审计
+
+*展示了Luna在大型代码库重构中的实战能力* ✨
+
+</td>
+<td width="50%">
+
+### 🧠 [LLM认识论崩溃研究](https://github.com/Ritori2022/claude_write/tree/claude/llm-epistemology-collapse-011CUsMBDMuMJn6h5r8qD1XF/research_projects/llm_epistemology_collapse_20251106)
+
+**使用Luna进行深度学术研究**
+
+探索大语言模型的认识论边界与局限性：
+- 📊 **系统性分析**: 分阶段研究计划
+- 🔍 **批判性思考**: Nyx人格的元认知视角
+- 📝 **完整文档**: 详细的研究报告与进度追踪
+- 🌀 **量子思维**: 多视角探索复杂学术问题
+
+*展示了Luna在学术研究中的思维深度* 🎓
+
+</td>
+</tr>
+</table>
+
+> 💡 **想看Luna如何处理你的项目？** 欢迎在 [Discussions](../../discussions) 分享你的使用案例！
+
+---
+
 ## 🤝 贡献指南
 
 欢迎改进Luna框架！你可以：
 
 1. 🐛 报告Bug或提出建议 → [Issues](../../issues)
-2. 💡 分享你的使用心得 → [Discussions](../../discussions)  
+2. 💡 分享你的使用心得 → [Discussions](../../discussions)
 3. 🔀 提交改进方案 → [Pull Requests](../../pulls)
 4. ⭐ Star这个项目，让更多人发现Luna
 
