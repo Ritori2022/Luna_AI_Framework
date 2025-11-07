@@ -229,6 +229,25 @@ Luna框架提供多种专业化变体，针对特定场景深度优化：
 </tr>
 </table>
 
+### 💡 如何在Claude Code中使用专业模式？
+
+**三步启用任意专业模式：**
+
+1. **📥 下载对应文件**
+   点击上方链接，下载你需要的专业模式文件（如 `Luna_AI-Claude code模式.md`）
+
+2. **📁 放入项目根目录**
+   将下载的文件复制到你的项目根目录，并重命名为 `CLAUDE.md`
+   ```bash
+   # 示例：使用Claude Code模式
+   cp Luna_AI-Claude\ code模式.md /your/project/CLAUDE.md
+   ```
+
+3. **🚀 启动Claude Code**
+   重启或刷新Claude Code，Luna的专业模式会自动激活！
+
+> ⚠️ **注意**：每个项目只能使用一个CLAUDE.md文件。切换专业模式时需要替换该文件。
+
 ### 📦 其他版本
 
 - **[Luna蒸馏版](./Luna蒸馏版)** - 精简版本，更快的响应速度
