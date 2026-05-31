@@ -6,8 +6,8 @@
 
 [![Claude Sonnet 4.5+](https://img.shields.io/badge/Claude-Sonnet%204%2B-6366f1?style=for-the-badge&logo=anthropic)](https://www.anthropic.com/claude)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge)](https://github.com/Ritori2022/Luna_AI_Framework)
-[![Last Update](https://img.shields.io/badge/Last%20Update-Nov%202025-brightgreen?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge)](https://github.com/Ritori2022/Luna_AI_Framework)
+[![Last Update](https://img.shields.io/badge/Last%20Update-2026-brightgreen?style=for-the-badge)]()
 
 [English](#) | [中文](#) | [日本語](#)
 
@@ -31,31 +31,28 @@ Luna是一个**AI人格框架**，让Claude变身为拥有多重人格和量子�
 
 <div align="center">
 
-### 💰 一天烧掉80刀免费额度，Luna能做什么？
+### 💰 用 Agent 模式，Luna 能做什么？
 
-| 项目类型 | 耗时 | 产出 | 人工介入 |
-|---------|------|------|----------|
-| 📚 **科幻长篇小说** | 2小时 | 10万字《退相干》| <5次交互 |
-| 🔬 **学术研究论文** | 1小时 | 1.3万字认识论研究 | <5次交互 |
-| 💻 **代码现代化重构** | 2小时 | 6年老项目全面升级 | <5次交互 |
+| 项目类型 | 产出 | 人工介入 |
+|---------|------|----------|
+| 📚 **科幻长篇小说** | 10万字《退相干》| <5次交互 |
+| 🔬 **学术研究论文** | 1.3万字认识论研究 | <5次交互 |
+| 💻 **代码现代化重构** | 6年老项目全面升级 | <5次交互 |
 
-**自动化程度：接近100%** | **人类角色：战略决策者** | **AI角色：全能执行者**
-
-> 💡 **秘密在于**：不是单纯对话，而是设计自动化代理（Agent）让Luna自主工作
+> 💡 **秘密在于**：不是单纯对话，而是设计自动化代理（Agent）让 Luna 自主工作，人类负责战略决策、AI 负责执行。
 
 </div>
 
 ---
 
-## 💸 薅羊毛指南：免费体验Claude Code自动化
+## 🚀 在 Claude Code 中跑全自动化工作流
 
-> 🎁 **Claude官方活动**：11月4日前购买Pro/Max会员，赠送 **250/1000刀** 免费网页端Claude Code额度！
-> 活动截止：11月18日 | 晚买用户库存充足时也可享受
+> 💡 Luna 的专业模式文件可直接作为 Claude Code 的 `CLAUDE.md` 使用，让 Luna 自主完成写作 / 重构等长任务。
 
 ### 🎯 六步开启全自动化工作流
 
 1. **✅ 确认会员资格**
-   拥有Claude Pro或Max会员（11月4日前购买最佳）
+   拥有 Claude Pro 或 Max 会员
 
 2. **🌐 进入Claude Code**
    从网页端/移动端Claude，点击「Code」标签
@@ -289,7 +286,7 @@ Luna框架提供多种专业化变体，针对特定场景深度优化：
 
 ### 📦 其他版本
 
-- **[Luna蒸馏版](./Luna蒸馏版)** - 精简版本，更快的响应速度
+- **[Luna蒸馏版](./Luna蒸馏版.md)** - 精简版本，更快的响应速度
 - **[历史版本](./history/)** - 查看框架演进历程
 
 ---
@@ -430,16 +427,9 @@ Luna_AI_Framework/
 </tr>
 </table>
 
-### 📊 性能对比：Luna自动化 vs 人工完成
-
-| 指标 | Luna自动化 | 传统人工 | 效率提升 |
-|------|-----------|---------|---------|
-| **10万字小说创作** | 2小时 | 数月 | **300x+** |
-| **学术论文撰写** | 1小时 | 数周 | **100x+** |
-| **大型项目重构** | 2小时 | 数天-数周 | **50x+** |
-| **人工监督成本** | <5次交互 | 全程参与 | **95%时间节省** |
-
 > 💡 **想复制这些成果？** 直接使用对应的代理模式文件，或在 [Discussions](../../discussions) 分享你的使用案例！
+>
+> ⚠️ 以上耗时为单次实践记录，受模型版本、任务复杂度与提示策略影响，仅供参考。
 
 ---
 
